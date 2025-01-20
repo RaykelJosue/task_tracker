@@ -10,7 +10,9 @@ Task Tracker es una aplicación de línea de comandos (CLI) que permite gestiona
 
 ## Instalación
 ```diff
-1. Clona este repositorio o descarga los archivos del proyecto.
+1. Clona este repositorio o descarga los archivos del proyecto desde Git Bash o tu terminal de preferencia:
+  git clone https://github.com/RaykelJosue/task_tracker.git
+
 2. Crea un entorno virtual (opcional pero recomendado):
    python -m venv venv
    source venv/Scripts/activate
